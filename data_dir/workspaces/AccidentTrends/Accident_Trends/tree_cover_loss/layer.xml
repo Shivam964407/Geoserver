@@ -1,0 +1,13 @@
+<layer>
+  <name>tree_cover_loss</name>
+  <id>LayerInfoImpl--4f10e11b:19349286b67:-7ff2</id>
+  <type>VECTOR</type>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4f10e11b:19349286b67:-7ff3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-20 15:31:32.887 UTC</dateCreated>
+</layer>

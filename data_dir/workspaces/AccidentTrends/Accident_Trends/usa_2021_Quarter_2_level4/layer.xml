@@ -1,0 +1,17 @@
+<layer>
+  <name>usa_2021_Quarter_2_level4</name>
+  <id>LayerInfoImpl--1c4263bd:19390799ae9:-7e58</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2a8c381e:193720c5618:-7ff9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1c4263bd:19390799ae9:-7e59</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-04 11:37:37.10 UTC</dateCreated>
+  <dateModified>2024-12-04 14:30:58.904 UTC</dateModified>
+</layer>

@@ -1,0 +1,16 @@
+<layer>
+  <name>UK_2007_Quarter_1</name>
+  <id>LayerInfoImpl-251d8a1f:193729db66e:-7fc5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-251d8a1f:193729db66e:-7ff8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-251d8a1f:193729db66e:-7fc6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-28 12:12:11.458 UTC</dateCreated>
+</layer>

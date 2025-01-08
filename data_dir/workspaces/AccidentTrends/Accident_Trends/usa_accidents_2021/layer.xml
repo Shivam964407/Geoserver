@@ -1,0 +1,16 @@
+<layer>
+  <name>usa_accidents_2021</name>
+  <id>LayerInfoImpl-3f22a763:19363c68634:-7feb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3f22a763:19363c68634:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3f22a763:19363c68634:-7fec</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-25 14:52:30.596 UTC</dateCreated>
+</layer>

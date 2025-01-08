@@ -1,0 +1,17 @@
+<layer>
+  <name>nyc_buildings</name>
+  <id>LayerInfoImpl--4f10e11b:19349286b67:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4f10e11b:19349286b67:-7ff6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4f10e11b:19349286b67:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-20 12:06:51.439 UTC</dateCreated>
+  <dateModified>2024-11-20 13:05:14.62 UTC</dateModified>
+</layer>

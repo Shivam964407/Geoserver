@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-2a8c381e:193720c5618:-7fe0</id>
+  <name>usa_2017_Quarter_1</name>
+  <nativeName>usa_2017_quarter_1</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--4f10e11b:19349286b67:-7ffe</id>
+  </namespace>
+  <title>usa_2017_quarter_1</title>
+  <keywords>
+    <string>features</string>
+    <string>usa_2017_quarter_1</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
+  DATUM[&quot;World Geodetic System 1984&quot;, 
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-123.91551971435547</minx>
+    <maxx>-70.32472229003906</maxx>
+    <miny>25.32310676574707</miny>
+    <maxy>48.31258010864258</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-123.91551971435547</minx>
+    <maxx>-70.32472229003906</maxx>
+    <miny>25.32310676574707</miny>
+    <maxy>48.31258010864258</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4f10e11b:19349286b67:-7ffd</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

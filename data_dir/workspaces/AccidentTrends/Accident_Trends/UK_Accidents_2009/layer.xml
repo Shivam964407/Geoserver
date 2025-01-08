@@ -1,0 +1,16 @@
+<layer>
+  <name>UK_Accidents_2009</name>
+  <id>LayerInfoImpl--56346876:1936c62f9fd:-7fe6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--56346876:1936c62f9fd:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--56346876:1936c62f9fd:-7fe7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-27 06:59:58.716 UTC</dateCreated>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>usa_2017_Quarter_1_level4</name>
+  <id>LayerInfoImpl--1c4263bd:19390799ae9:-7e88</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2a8c381e:193720c5618:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1c4263bd:19390799ae9:-7e89</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-04 11:30:10.240 UTC</dateCreated>
+  <dateModified>2024-12-04 14:28:35.469 UTC</dateModified>
+</layer>

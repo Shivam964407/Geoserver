@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--329de383:1933f1367bb:-7ffc</id>
+  <name>streams</name>
+  <nativeName>streams</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--33d1488a:1933e589498:-7fff</id>
+  </namespace>
+  <title>streams</title>
+  <keywords>
+    <string>features</string>
+    <string>streams</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>589443.06</minx>
+    <maxx>609526.75</maxx>
+    <miny>4913935.46</miny>
+    <maxy>4928059.15</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>589443.06</minx>
+    <maxx>609526.75</maxx>
+    <miny>4913935.46</miny>
+    <maxy>4928059.15</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--33d1488a:1933e589498:-7ffe</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

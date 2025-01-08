@@ -1,0 +1,17 @@
+<layer>
+  <name>barcelona2014</name>
+  <id>LayerInfoImpl-59e922b8:1934e29485d:-7ff3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-59e922b8:1934e29485d:-7fde</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-59e922b8:1934e29485d:-7ff4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-21 13:23:10.23 UTC</dateCreated>
+  <dateModified>2024-11-21 14:31:15.957 UTC</dateModified>
+</layer>

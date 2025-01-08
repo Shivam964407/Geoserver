@@ -1,0 +1,16 @@
+<layer>
+  <name>USA_Accidents_Test</name>
+  <id>LayerInfoImpl--72ec25e7:19416601fe0:-7fe8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--10a5b457:19377a3c351:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--72ec25e7:19416601fe0:-7fe9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-30 07:07:48.454 UTC</dateCreated>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>usa_2022_Quarter_2_level3</name>
+  <id>LayerInfoImpl--1c4263bd:19390799ae9:-7e1c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2a8c381e:193720c5618:-7ff5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1c4263bd:19390799ae9:-7e1d</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-04 11:46:18.25 UTC</dateCreated>
+  <dateModified>2024-12-04 14:34:27.233 UTC</dateModified>
+</layer>

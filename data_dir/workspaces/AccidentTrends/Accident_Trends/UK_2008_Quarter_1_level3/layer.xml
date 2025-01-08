@@ -1,0 +1,16 @@
+<layer>
+  <name>UK_2008_Quarter_1_level3</name>
+  <id>LayerInfoImpl--1c4263bd:19390799ae9:-7f5e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-251d8a1f:193729db66e:-7ff4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1c4263bd:19390799ae9:-7f5f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-04 10:47:23.415 UTC</dateCreated>
+</layer>

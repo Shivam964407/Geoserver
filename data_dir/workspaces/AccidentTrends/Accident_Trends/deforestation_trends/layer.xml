@@ -1,0 +1,16 @@
+<layer>
+  <name>deforestation_trends</name>
+  <id>LayerInfoImpl--4f10e11b:19349286b67:-7ff0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4f10e11b:19349286b67:-7ff1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-20 16:07:39.377 UTC</dateCreated>
+</layer>

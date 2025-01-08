@@ -1,0 +1,16 @@
+<layer>
+  <name>usa_accidents_2017_level2</name>
+  <id>LayerInfoImpl-634db1a6:19387c69366:-7fa5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2a8c381e:193720c5618:-7ffb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-634db1a6:19387c69366:-7fa6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-02 14:45:56.855 UTC</dateCreated>
+</layer>
